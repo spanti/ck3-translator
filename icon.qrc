@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/spanti/icon">
+        <file>translator.ico</file>
+    </qresource>
+    <qresource prefix="/spanti/background">
+        <file>wallpaper.jpg</file>
+    </qresource>
+</RCC>
